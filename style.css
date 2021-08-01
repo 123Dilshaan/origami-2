@@ -1,0 +1,15 @@
+            h1{
+                color:red
+            }
+        .content{
+            display: flex;
+            justify-content: space-evenly;
+            background-color:darksalmon;
+        }
+        .header{
+               
+            background-color:lavender
+        }
+        .footer{
+            background-color: lavender;
+        }
